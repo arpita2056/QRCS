@@ -1,16 +1,41 @@
-# React + Vite
+# Quick Response Coordination System (QRCS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
+The Quick Response Coordination System (QRCS) is a web-based emergency response platform developed using React.js, Node.js, and Express.js. It helps users quickly report emergencies and enables administrators to manage emergency reports efficiently.
 
-Currently, two official plugins are available:
+## Features
+- User Login
+- Emergency Reporting
+- Admin Dashboard
+- User Profile
+- Responsive User Interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React.js
+- Vite
+- Node.js
+- Express.js
+- HTML5
+- CSS3
+- JavaScript
 
-## React Compiler
+## Team Members
+- Arpita
+- Harsh Raj
+- Jashandeep Singh Gill
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Installation
 
-## Expanding the ESLint configuration
+```bash
+npm install
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Future Enhancements
+- Live GPS Tracking
+- Email Notifications
+- SMS Alerts
+- AI-Based Emergency Prediction
+
+## License
+This project is developed for academic purposes.
